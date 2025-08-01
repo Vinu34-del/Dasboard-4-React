@@ -1,5 +1,54 @@
 .container2{
-    background-color: skyblue;
+    /* background-color: skyblue; */
     width:100%;
-    height: 200px;
+    height: 250px;
+    display: flex;
+    gap: 15px;
+    justify-content: space-evenly;
+    padding-right: 2px;
+    padding-left: 10px;
+}
+.container2 .chart{
+    width: 360px;
+    /* height: 200px; */
+    background-color: white;
+    padding: 5px;
+    border-radius: 7px;
+}
+.top{
+    display: flex;
+    justify-content: space-between;
+}
+button{
+    display: inline-flex;
+    align-items: center;
+    justify-content: space-between;
+    width: 80px;
+    height: 29px;
+    border-radius: 8px;
+    padding: 5px;
+    background-color: rgb(255, 248, 248);
+}
+button img{
+    width: 15px;
+}
+.mid{
+   display: flex;
+    justify-content: center;
+    text-align: center;
+}
+.mid img{
+    width: 150px;  
+}
+.mid .chartimg img{
+    width: 220px;
+}
+.bottom{
+    display: flex;
+    padding-top: 19px;
+}
+.bottomcontent{
+    gap: 50px;
+    display: flex;
+    padding-left: 10px;
 }
