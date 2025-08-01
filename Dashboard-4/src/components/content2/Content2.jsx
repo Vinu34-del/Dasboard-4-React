@@ -73,7 +73,7 @@ const Content2 = () => {
                 name="impactStatus"
                 value="impacted"
               />
-              Impacted
+               Active
             </label>
 
             <label htmlFor="nonImpacted">
@@ -83,7 +83,7 @@ const Content2 = () => {
                 name="impactStatus"
                 value="nonImpacted"
               />
-              Non Impacted
+               Complete
             </label>
           </div>
         </div>
@@ -111,7 +111,7 @@ const Content2 = () => {
                 name="impactStatus"
                 value="impacted"
               />
-              Impacted
+                Active
             </label>
 
             <label htmlFor="nonImpacted">
@@ -121,7 +121,7 @@ const Content2 = () => {
                 name="impactStatus"
                 value="nonImpacted"
               />
-              Non Impacted
+              Complete
             </label>
           </div>
         </div>

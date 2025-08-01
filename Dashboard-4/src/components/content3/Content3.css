@@ -40,5 +40,39 @@ table {
 
     tbody tr:last-child td {
       border-bottom: none; /* Remove border from last row */
-    }
+    }
+    .btn1{
+      width: 100px;
+      height: 30px;
+      text-align:center;
+      border-radius: 7px;
+      justify-content: center;
+      background-color:#00D1B2;
+      color: white;
+      border: none;
+    }
+    .btn2{
+      width: 100px;
+      height: 30px;
+      text-align:center;
+      border-radius: 7px;
+      justify-content: center;
+      background-color:#FFA500;
+      color: white;
+      border: none;
+    }
+    .btn3{
+      width: 100px;
+      height: 30px;
+      text-align:center;
+      border-radius: 7px;
+      justify-content: center;
+      background-color:#FF3B30;
+      color: white;
+      border: none;
+    }
+
+
+
+
 

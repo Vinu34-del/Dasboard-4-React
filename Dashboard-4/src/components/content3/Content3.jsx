@@ -26,24 +26,28 @@ const Content3 = () => {
               <td>NextGen Enterprise</td>
               <td>Review</td>
               <td>27th Aug 2019</td>
+              <td><button className='btn1'>Assigned</button></td>
             </tr>
             <tr>
               <td>Loan Agreement - Game</td>
               <td>Game Technology</td>
               <td>Approval</td>
               <td>20th Aug 2019</td>
+               <td><button className='btn1'>Assigned</button></td>
             </tr>
             <tr>
               <td>Loan Agreement - Tag</td>
               <td>TAG Corp</td>
               <td>Review</td>
               <td>28th Jul 2019</td>
+               <td><button className='btn2'>In Process</button></td>
             </tr>
             <tr>
               <td>Loan Agreement - New LLC</td>
               <td>New LLC</td>
               <td>Sign - off</td>
               <td>10th Jul 2019</td>
+               <td><button className='btn3'>Overdue</button></td>
             </tr>
           </tbody>
         </table>
